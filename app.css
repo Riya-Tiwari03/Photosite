@@ -1,0 +1,14 @@
+img {
+  width: 30%;
+  height: 30%;
+  margin: calc(10% / 6);
+}
+
+nav {
+  text-transform: uppercase;
+  font-family: "Major Mono Display", monospace;
+  border-bottom: 2px solid #8d8a8a;
+  width: 30%;
+  margin-left: calc(10% / 6);
+  padding: 20px 0;
+}
